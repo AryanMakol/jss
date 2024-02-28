@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # AryanDevops
+=======
+# Assignment MSBuild
+>>>>>>> a89d43597dc0884da6ce0dae55d6c0d393bb66e6
 
 
 
@@ -15,14 +19,22 @@ Already a pro? Just edit this README.md and make it your own. Want to make it ea
 
 ```
 cd existing_repo
+<<<<<<< HEAD
 git remote add origin https://gitlab.com/devops4074109/AryanDevops.git
+=======
+git remote add origin https://gitlab.com/devops4074109/Assignment-MSBuild.git
+>>>>>>> a89d43597dc0884da6ce0dae55d6c0d393bb66e6
 git branch -M main
 git push -uf origin main
 ```
 
 ## Integrate with your tools
 
+<<<<<<< HEAD
 - [ ] [Set up project integrations](https://gitlab.com/devops4074109/AryanDevops/-/settings/integrations)
+=======
+- [ ] [Set up project integrations](https://gitlab.com/devops4074109/Assignment-MSBuild/-/settings/integrations)
+>>>>>>> a89d43597dc0884da6ce0dae55d6c0d393bb66e6
 
 ## Collaborate with your team
 
