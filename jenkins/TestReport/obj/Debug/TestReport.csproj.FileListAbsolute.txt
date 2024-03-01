@@ -1,5 +1,0 @@
-D:\Jenkins\Problems\Jenkins - Testing\TestReport\TestReport\bin\Debug\TestReport.dll
-D:\Jenkins\Problems\Jenkins - Testing\TestReport\TestReport\bin\Debug\TestReport.pdb
-D:\Jenkins\Problems\Jenkins - Testing\TestReport\TestReport\obj\Debug\TestReport.dll
-D:\Jenkins\Problems\Jenkins - Testing\TestReport\TestReport\obj\Debug\TestReport.pdb
-D:\Jenkins\Problems\Jenkins - Testing\TestReport\TestReport\obj\Debug\TestReport.csprojResolveAssemblyReference.cache
